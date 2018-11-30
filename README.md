@@ -2,7 +2,6 @@ Object Extraction from Images using OpenCV Haar Cascades
 ===
 
 > This is a demo of detecting and extracting (crop) objects in an image.
-Alignment is a process of rotating a face to a vertically straight orientation, should the original face image is tilted.
 
 #### Setup:
 1. Run `pip install -r requirements.txt`
@@ -29,6 +28,5 @@ Options:
 
 
 ##### Dependencies:
-- [dlib](http://dlib.net/)
 - [opencv-python](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
 - [click](https://click.palletsprojects.com/en/7.x/)
